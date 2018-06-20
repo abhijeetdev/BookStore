@@ -1,0 +1,4 @@
+
+squid:UselessImportCheck"QRemove this unused import 'com.example.android.bookstore.data.BookStoreContract'.(Òôè¯øÿÿÿÿ8û·Â÷¿,
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "cursor".(î®Óûÿÿÿÿ8û·Â÷¿,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±8û·Â÷¿,
